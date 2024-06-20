@@ -1,0 +1,3 @@
+google-cloud-storage==2.15.0
+Scrapy==2.11.1
+scrapy-s3pipeline==0.7.0
